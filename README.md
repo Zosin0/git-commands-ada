@@ -34,6 +34,10 @@ git fetch https://github.com/Zosin0/git-commands-ada
 git add .
 git commit -m "first commit"
 
+git push https://github.com/Zosin0/git-commands-ada.git master
+git pull https://github.com/Zosin0/git-commands-ada.git origin main --allow-unrelated-histories
+
 git push https://github.com/Zosin0/git-commands-ada.git main
+
 ´´´
 

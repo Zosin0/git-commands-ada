@@ -28,6 +28,7 @@ git restore .\README.md
 git restore --staged .\README.md
 
 -- Uploading changes to github
+git push origin master
 
 ´´´
 

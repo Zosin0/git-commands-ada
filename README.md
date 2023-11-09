@@ -6,7 +6,7 @@
 
 ### First Commands to stage files and prepare for commit
 
-´´´git
+```git
 git init
 git status
 git add .\assets\ .\README.md
@@ -39,5 +39,5 @@ git pull https://github.com/Zosin0/git-commands-ada.git origin main --allow-unre
 
 git push https://github.com/Zosin0/git-commands-ada.git main
 
-´´´
+``` 
 

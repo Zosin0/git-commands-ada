@@ -78,9 +78,15 @@ git checkout testing
 -- checkout to master
 -- adding TODO.md file
 
-How to merge this?
 ```
 
 ![Merge](assets/image4.png)
 
+### How to merge this?
+
+```git
+git checkout master
+git merge testing
+
+```
 

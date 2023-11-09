@@ -72,3 +72,15 @@ git checkout testing
 
 ![Commits into branches](assets/image3.png)
 
+```git
+-- adding .gitignore file
+-- commit
+-- checkout to master
+-- adding TODO.md file
+
+How to merge this?
+```
+
+![Merge](image.png)
+
+

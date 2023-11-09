@@ -27,8 +27,13 @@ git restore .\README.md
 -- Remove the file from staged area
 git restore --staged .\README.md
 
--- Uploading changes to github
-git push origin master
+-- After creating a repo remotely we have to add changes to github
+git checkout -b main
 
+git fetch https://github.com/Zosin0/git-commands-ada
+git add .
+git commit -m "first commit"
+
+git push https://github.com/Zosin0/git-commands-ada.git main
 ´´´
 

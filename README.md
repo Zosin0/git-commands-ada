@@ -81,6 +81,6 @@ git checkout testing
 How to merge this?
 ```
 
-![Merge](image.png)
+![Merge](assets/image4.png)
 
 
